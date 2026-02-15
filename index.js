@@ -1,5 +1,5 @@
 let nomeHeroi = "Daniel"
-let xp = 7000
+let xp = 1
 let nivel = "Bronze"
 
 switch (true) {
